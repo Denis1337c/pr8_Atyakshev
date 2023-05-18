@@ -1,6 +1,7 @@
 import ramdom 
 
 chars = 'gfjfsjgjfshgjshqjgnjqhg'
+chars = '!@$#@%$#NGNRFHJDKGJK'
 number = input('количество паролей?'+ "n")
 length = input('длина пароля?'+ "\n")
 number = int(number)
